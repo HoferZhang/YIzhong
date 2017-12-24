@@ -9,7 +9,7 @@
 
     <FrameLayout
         android:layout_width="fill_parent"
-        android:layout_height="200dip"
+        android:layout_height="220dip"
         android:id="@+id/frameLayout">
 
         <android.support.v4.view.ViewPager

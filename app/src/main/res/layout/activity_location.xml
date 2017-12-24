@@ -8,7 +8,7 @@
 
     <ImageView
         android:id="@+id/imageView2"
-        android:scaleType="centerInside"
+        android:scaleType="centerCrop"
         android:layout_width="380dip"
         android:layout_height="200dip"
         app:srcCompat="@drawable/location"
@@ -18,7 +18,7 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="360dip"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
